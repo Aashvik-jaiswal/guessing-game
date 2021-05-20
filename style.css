@@ -1,0 +1,30 @@
+body{
+    text-align:center;
+    background-color:cyan;
+    border:solid;
+    }
+    
+    .game_button{
+    font-weight: bold;
+    color:red;
+    background-color:yellow;
+    font-size:50px;
+    }
+    
+    .game_button.hover{
+    cursor: pointer;
+    
+    }
+    
+    h1{
+    font-size :90px;
+    color:red;
+    
+    }
+    
+    .line{
+    height:6px;
+    background-color:black;
+    width:70px;
+    margin:6px auto;
+    }
